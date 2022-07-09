@@ -1,0 +1,11 @@
+.wrapper {
+    width: 340px;
+    height: 540px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #485461;
+    background-image: url("img7.jpg");
+    border-style: double;
+    border-color: #DEB887;
+    box-shadow: 0 4px 8px 0 rgb(181, 135, 135), 0 6px 20px 0 rgba(20, 20, 20, 0.986);
+  }
